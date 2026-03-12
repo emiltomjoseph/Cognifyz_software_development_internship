@@ -28,6 +28,6 @@ A menu-driven program that converts between Celsius, Fahrenheit, and Kelvin with
 
 Developed as part of internship practice work.
 #### Author
-Emil Tom Joseph
-B.Tech CSE (Cyber Security)
+Emil Tom Joseph | 
+B.Tech CSE (Cyber Security) | 
 Amal Jyothi College of Engineering
